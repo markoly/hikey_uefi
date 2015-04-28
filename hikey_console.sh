@@ -5,4 +5,4 @@
 #
 # Adjust USB device as needed
 
-miniterm.py --lf /dev/ttyUSB0 115200
+miniterm.py --lf /dev/ttyUSB1 115200
